@@ -13,7 +13,7 @@ Moreover it's studied so that the applicants gets a first taste of the tools use
  - KiCad
    - Schematic choices, tidyness and good practices
    - Board layout understanding and, again, good practices
- - `git` usage: fork, branch, clone, commit push, pull
+ - `git` usage: fork, branch, clone, commit, push, pull
 
 ## Assignment
 
