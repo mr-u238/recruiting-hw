@@ -19,7 +19,7 @@ Moreover it's studied so that the applicants gets a first taste of the tools use
 
 Develop a DCDC converter:
 
- - Input voltage in range 11V-17V
+ - Input voltage in range 11V-27V
  - Two outputs of:
    - 5V3A
    - 3.3V0.5A
