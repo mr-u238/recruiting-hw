@@ -23,8 +23,8 @@ Develop a DCDC converter:
  - Two outputs of:
    - 5V3A
    - 3.3V0.5A
- - In the schematic use also a gerarchical sheet
-   - _It's not a good practice for this small of a project but it's for letting you learn about gerarchy without the hassle of a more complex assignment_
+ - In the schematic use also a hierarchical sheet
+   - _It's not a good practice for this small of a project but it's for letting you learn about hierarchy without the hassle of a more complex assignment_
 
 ## Instructions
 
