@@ -43,5 +43,6 @@ Develop a DCDC converter with power monitoring:
  - Commit your progress along the way
  - Open a pull request on `eagletrt/recruiting-hw`
  - When you are done, generate the schematic output inside `docs/` and the production (gerber) files in `output/`
- - Submit the recruiting form [here](https://airtable.com/shrorVpRaW3HqUUfT)
+ - If you haven't already, submit the recruiting form [here](https://airtable.com/shrEDQJRgHh74MJKw)
  - If you have any questions feel free to contact us at [electronics@eagletrt.it](mailto:electronics@eagletrt.it)
+ - Feel free to also come to our lab (Povo2 floor -2) if we are slow at replying
