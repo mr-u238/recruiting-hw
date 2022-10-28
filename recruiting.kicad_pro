@@ -359,7 +359,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "template.kicad_pro",
+    "filename": "recruiting.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -440,6 +440,14 @@
     [
       "bdc7face-9f7c-4701-80bb-4cc144448db1",
       ""
+    ],
+    [
+      "f9f53e5d-46a2-43c6-bd25-b8d3fc208cf4",
+      "lm78"
+    ],
+    [
+      "ccc58d8d-783d-437a-aedd-84fd17486ba9",
+      "lm783.3"
     ]
   ],
   "text_variables": {}
